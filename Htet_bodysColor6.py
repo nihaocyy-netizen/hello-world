@@ -8,7 +8,7 @@ import Htet_common as c
 import Htet_lang as _L
 
 
-TARGET_COLOR = 6
+TARGET_COLOR = 7
 #TARGET_COLOR = 10
 
 def main():
