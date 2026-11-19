@@ -10,6 +10,8 @@ import Htet_lang as _L
 
 
 TARGET_COLOR = 6
+TARGET_COLOR = 7
+
 
 def main():
     session, ui, part, lw = c.ctx(open_listing=False)
