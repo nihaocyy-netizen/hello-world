@@ -7,7 +7,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import Htet_common as c
 import Htet_lang as _L
 
-TARGET_COLOR = 6
+TARGET_COLOR = 9
 
 
 def main():
