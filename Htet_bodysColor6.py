@@ -8,7 +8,12 @@ import Htet_common as c
 import Htet_lang as _L
 
 
+<<<<<<< Updated upstream
 TARGET_COLOR = 7
+=======
+TARGET_COLOR = 6
+TARGET_COLOR = 9
+>>>>>>> Stashed changes
 #TARGET_COLOR = 10
 
 def main():
